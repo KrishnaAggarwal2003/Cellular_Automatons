@@ -8,6 +8,7 @@ A 1-D cellular automaton is a simple computational model consisting of a row (1 
 ## Wolfram elementary CA
 This a well-known example in 1-D cellular automata where 256 rule sets are possible as the next state (0 or 1) could be decided by 8 possible combinations (cell and its immediate neighbours) i.e. 2**8 = 256. The rule could be from 0 to 255. The code will ask for the user's desired rule number and will be executed accordingly.
 
+| An example is shown below through a GIF:-
 | ![Rule 110 CA](https://github.com/KrishnaAggarwal2003/Cellular_Automatons/blob/main/rule_110%20animation.gif) |
 |:---:|
 | Demo of Rule 110 Cellular Automaton |
