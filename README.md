@@ -23,7 +23,31 @@ A demo is shown below:-
 |:---:|
 | Convoy Game of Life CA |
 
+# SIRS Model Simulations
+## Description
+1. The model would have: 
+   
+   - **Susceptible** = 0
+   - **Infected** = 1<=>threshold 
+   - **Recovered** = threshold  
 
+   Then at `val == threshold`, the person would again become **susceptible** indicating the loop between the states
+ 
+ 2. The transition from **Susceptible to Infected** will be **probabilistic**, depending on the number of **infected neighbors**. The more the **infected** neighbours, the more is the chance of infection.
+
+4. The number of individuals will be categorized as:
+   - Susceptible
+   - Infected
+   - Recovered
+
+5. The analysis is done in 4 kinds of plots:
+   
+   - The video of the simulation showing the pattern of the cellular automata
+
+     
+   - The grouped bar graph which shows the number of individuals in each category at the beginning and the end of the simulation
+   - The seaborn scatter plots that visualize the number of individuals in the categories concerning the generations
+   - The line plots that compare between the number of individuals from all the categories, giving an idea of comparison between the categories.
 
 
 
