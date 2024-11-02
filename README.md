@@ -43,16 +43,20 @@ A demo is shown below:-
 5. The analysis is done in 4 kinds of plots:
    
    - The GIF of the simulation showing the pattern of the cellular automata
+   
    ![SIRS_simulation](https://github.com/user-attachments/assets/1c7074c7-140e-4402-a2d2-ecf3a9c2d668)
 
    - The grouped bar graph which shows the number of individuals in each category at the beginning and the end of the simulation
-![bars](https://github.com/user-attachments/assets/ac4090c2-e380-4342-9dd1-089c135e33e5)
+
+   ![bars](https://github.com/user-attachments/assets/ac4090c2-e380-4342-9dd1-089c135e33e5)
      
    - The seaborn scatter plots that visualize the number of individuals in the categories concerning the generations  
-![categ](https://github.com/user-attachments/assets/9edfa427-1034-4eb9-9d91-37613470c9ce)
+   
+   ![categ](https://github.com/user-attachments/assets/9edfa427-1034-4eb9-9d91-37613470c9ce)
 
    - The line plots that compare between the number of individuals from all the categories, giving an idea of comparison between the categories.
-![fina;](https://github.com/user-attachments/assets/ba1acb53-a39c-4a7b-9e7b-d527079c018c)
+
+   ![fina;](https://github.com/user-attachments/assets/ba1acb53-a39c-4a7b-9e7b-d527079c018c)
 
 
 
